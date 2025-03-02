@@ -56,7 +56,7 @@ const BlogsPage = () => {
           {
             _id: '2',
             title: 'Understanding Student Visa Requirements for Popular Destinations',
-            content: 'If you're planning to study abroad, understanding the specific visa requirements for your chosen destination is crucial...',
+            content: 'If you\'re planning to study abroad, understanding the specific visa requirements for your chosen destination is crucial...',
             summary: 'A comprehensive guide to student visa requirements for the most popular study abroad destinations.',
             author: 'Michael Chen',
             date: '2023-04-28',

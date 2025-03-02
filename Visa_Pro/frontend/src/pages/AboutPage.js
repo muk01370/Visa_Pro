@@ -32,7 +32,7 @@ const AboutPage = () => {
       id: 4,
       name: 'David Okafor',
       position: 'Permanent Residency Expert',
-      bio: 'David's knowledge of permanent residency pathways has made him a trusted advisor for those looking to settle abroad permanently.',
+      bio: 'David\'s knowledge of permanent residency pathways has made him a trusted advisor for those looking to settle abroad permanently.',
       image: 'https://via.placeholder.com/300x300?text=David+Okafor'
     }
   ];

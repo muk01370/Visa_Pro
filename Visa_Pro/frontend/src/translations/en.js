@@ -40,7 +40,7 @@ const enTranslations = {
   'about.values.excellence': 'Excellence',
   'about.values.excellence.text': 'We strive for excellence in every service we provide.',
   'about.values.client': 'Client-Focused',
-  'about.values.client.text': 'We put our clients' needs first and tailor our services accordingly.',
+  'about.values.client.text': 'We put our clients\' needs first and tailor our services accordingly.',
   'about.team.title': 'Our Team',
   'about.team.subtitle': 'Meet the experts behind Visa Pro',
   
