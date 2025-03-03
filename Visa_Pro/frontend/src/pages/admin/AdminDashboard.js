@@ -2,7 +2,7 @@ import React, { useState, useContext, useEffect } from 'react';
 import { Container, Row, Col, Nav, Card, Button, Table, Badge } from 'react-bootstrap';
 import { Routes, Route, Link, useNavigate, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import { AuthContext } from '../../context/AuthContext';
+import AuthContext from '../../context/AuthContext';
 import { 
   FaHome, FaClipboardList, FaNewspaper, FaEnvelope, 
   FaFileAlt, FaQuestion, FaEdit, FaCog, FaSignOutAlt 
